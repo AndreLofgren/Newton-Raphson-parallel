@@ -11,11 +11,11 @@ The executables will be stored in the newly created folder bin.
 ./exec a b N T, where [a, b] is the interval to look for roots, N the number of subintervals and T the number of threads.
 
 # Example runs
-$ ./exec 0 100000 100000 2
-Newton-bisection found 31831 zeros in 0.478851 s
+$ ./exec 0 100000 100000 2 <br />
+Newton-bisection found 31831 zeros in 0.478851 s<br />
 Bisection found 31831 zeros in 0.265927 s
 
-$ ./exec 0 1000000 100000 2
-Newton-bisection found 100000 zeros in 0.026027 s
+$ ./exec 0 1000000 100000 2 <br />
+Newton-bisection found 100000 zeros in 0.026027 s <br />
 Bisection found 100000 zeros in 0.298974 s
 
