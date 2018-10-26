@@ -4,7 +4,7 @@ In the src folder you will find two separate C programs; one implementing bisect
 of bisection and Newton-Raphson. Parallelization was acheived with the OpenMP API.
 
 # Compilation
-A Makefile is included for compilation. Simply type 'make' or 'make all' in the command line to compile all source code.
+A makefile is included for compilation. Simply type 'make' or 'make all' in the command line to compile all source code.
 The executables will be stored in the newly created folder bin.
 
 # Run
