@@ -13,14 +13,14 @@ A makefile is included for compilation. Simply type 'make' or 'make all' in the 
 $ ./exec 0 100000 100000 2 <br />
 Newton-bisection found 31831 zeros in 0.779270 s
 all zeros, z0, pased the test |fun(z0)| < 1e-6
-
+<br />
 Bisection found 31831 zeros in 0.270711 s
 all zeros, z0, passed the test |fun(z0)| < 1e-6
 
 $ ./exec 0 1000000 100000 2 <br />
 Newton-bisection found 100000 zeros in 0.089167 s
 all zeros, z0, pased the test |fun(z0)| < 1e-6
-
+<br />
 Bisection found 100000 zeros in 0.315474 s
 all zeros, z0, passed the test |fun(z0)| < 1e-6
 
