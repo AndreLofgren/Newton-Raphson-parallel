@@ -19,4 +19,4 @@ Newton-bisection found 100000 zeros in 0.026027 s <br />
 Bisection found 100000 zeros in 0.298974 s
 
 # Additional notes
-If you find the code helpful and want to reuse it for your homework or your project, you're free to do so. However, I take no responsibility regarding correctness and functionality of the code, and strongly discourage thoughtless copying a random piece of code. You're ultimately the one responsible for testing and making sure your code is correct. If you find a bug in the code, don't hesitate to contact me.
+If you find the code helpful and want to reuse it for your homework or your project, you're free to do so. However, I take no responsibility regarding correctness and functionality of the code, and strongly discourage thoughtless copying a random piece of code. You're ultimately the one responsible for testing and making sure your program is correct. If you find a bug in the code, don't hesitate to contact me.
