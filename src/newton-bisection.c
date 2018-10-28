@@ -8,8 +8,8 @@ double derive(double (*fun_ptr)(double), double x) {
 }
 
 /** Finds all zeros in the interval [a, b]. This procedure
-    divides the interval [a, b] into N smaller sub intervals and
-    then uses Newton-bisection on each of the sub intervalls. **/
+    divides the interval [a, b] into N smaller subintervals and
+    then uses Newton-bisection on each of the subintervals. **/
 array *find_all_zeros_NR(double (*fun_ptr)(double), double a, double b, int N, int T) {
     array *zeros = malloc(sizeof(array));
     zeros->ptr = malloc(N*sizeof(double));
