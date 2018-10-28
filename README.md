@@ -1,7 +1,7 @@
 # Newton-Raphson-parallel
 This is a parallel C program for finding multiple roots in the interval [a, b] to the equation f(x) = 0.
 In the src folder you can find two separate C programs; one implementing bisection, and one a hybrid
-of bisection and Newton-Raphson. Parallelization was acheived with the OpenMP API.
+of bisection and Newton-Raphson. Parallelization was acheived with the use of OpenMP.
 
 # Compilation
 A makefile is included for compilation. Simply type 'make' or 'make all' in the command line to compile all source code. The executables will be stored in the newly created folder bin.
